@@ -75,7 +75,3 @@ streamlit run app.py
 ## Author
 
 Abhishek
-
-## License
-
-This project is licensed under the MIT License.
